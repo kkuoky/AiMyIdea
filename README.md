@@ -1,5 +1,5 @@
 
-[🇰🇷 한국어](https://github.com/kkuoky/AiMyIdea)) | [🇬🇧 English](https://github.com/kkuoky/AiMyIdea/doc/readme.en.md))
+([🇰🇷 한국어](https://github.com/kkuoky/AiMyIdea)) | ([🇬🇧 English](https://github.com/kkuoky/AiMyIdea/blob/main/doc/readme.en.md))
 
 # "Elements of AI - part2 Building AI course" 최종 프로젝트
 
