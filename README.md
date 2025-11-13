@@ -5,7 +5,7 @@
 
 **[buildingai.elementsofai.com](https://buildingai.elementsofai.com/)**
 
-## 요약
+## Summary
 
 본 프로젝트는 AI가 생성한 이미지와 인간이 만든 이미지를 구별하도록 훈련된 **AI 분류 모델**입니다. 이 모델은 업로드된 이미지를 분석하여, 해당 이미지가 AI에 의해 합성되었는지(AI-generated) 아니면 사람이 직접 만들었는지(Human-made) 판별합니다.
 
